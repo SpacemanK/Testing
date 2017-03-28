@@ -29,7 +29,7 @@ code blocks for commands
 ## Help
 
 Any advise for common problems or issues.
-```PowerShell
+```
 command to run if program contains helper info
 ```
 
@@ -37,7 +37,7 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie
+ex. Dominique Pizzie 
 ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## Version History
